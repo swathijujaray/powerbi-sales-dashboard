@@ -30,8 +30,6 @@ This project focuses on analyzing sales performance using **Power BI** to help b
 ## 📈 Key KPIs
 
 * Total Orders
-* Total Order Quantity
-* Total Discount
 * Weekend Orders
 * Total Revenue
 * Target Revenue Comparison
